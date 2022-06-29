@@ -1,1 +1,1 @@
-# Music-Generation-Through-RNN
+# Music-Generation-Through-RNN-LSTM
